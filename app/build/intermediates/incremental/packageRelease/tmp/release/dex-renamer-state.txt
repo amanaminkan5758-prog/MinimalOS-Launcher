@@ -1,0 +1,4 @@
+#Wed Aug 19 14:05:33 WIB 2026
+base.0=/home/oem/Made OS android/MinimalOS-Launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

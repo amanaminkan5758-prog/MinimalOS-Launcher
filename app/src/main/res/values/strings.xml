@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MinimalOS Launcher</string>
+    <string name="btn_dialer">📞 DIALER</string>
+    <string name="btn_whatsapp">💬 WHATSAPP</string>
+    <string name="btn_browser">🌐 BROWSER</string>
+</resources>
