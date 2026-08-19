@@ -43,11 +43,11 @@ Custom Android launcher untuk smartphone dengan interface minimalis.
 
 ## Installation & Demo
 ```bash
-git clone https://github.com/YOUR_USERNAME/MinimalOS-Launcher
+git clone https://github.com/asalbritish34/MinimalOS-Launcher
 cd MinimalOS-Launcher
 ./gradlew build
 ./gradlew installDebug
 ```
 
 ## Repository
-GitHub: https://github.com/YOUR_USERNAME/MinimalOS-Launcher
+GitHub: https://github.com/asalbritish34/MinimalOS-Launcher

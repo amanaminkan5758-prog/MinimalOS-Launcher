@@ -4,4 +4,6 @@
     <string name="btn_dialer">📞 DIALER</string>
     <string name="btn_whatsapp">💬 WHATSAPP</string>
     <string name="btn_browser">🌐 BROWSER</string>
+    <string name="status_time">09:41</string>
+    <string name="status_battery">🔋 85%</string>
 </resources>
