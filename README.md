@@ -72,4 +72,4 @@ MinimalOS-Launcher/
 MIT License
 
 ## Author
-asalbritish34
+amanaminkan5758-prog
