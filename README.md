@@ -22,7 +22,7 @@ Launcher Android minimalis dengan 3 fitur utama: Dialer, WhatsApp, Browser.
 
 2. Clone project:
    ```bash
-    git clone https://github.com/asalbritish34/MinimalOS-Launcher
+    git clone https://github.com/amanaminkan5758-prog/MinimalOS-Launcher
     cd MinimalOS-Launcher
    ```
 
