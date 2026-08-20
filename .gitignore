@@ -17,3 +17,9 @@ local.properties
 
 # OS
 .DS_Store
+
+# Signing keys & secrets (NEVER commit)
+keystore/
+*.jks
+local.properties
+
